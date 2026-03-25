@@ -1,6 +1,6 @@
 # Mini Protheus
 
-> Versao recomendada para publicacao atual: `v1.0.0-beta.1`
+> Versao: `v1.0.0-beta.1`
 
 Mini ERP full stack inspirado em fluxos operacionais do ecossistema Protheus, com foco em comercial, financeiro, reservas, fiscal e rastreabilidade de fluxo.
 
