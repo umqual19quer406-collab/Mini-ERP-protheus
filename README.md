@@ -14,6 +14,9 @@ Este repositorio foi montado para comunicar valor tecnico rapido:
 
 Versao comercial curta para portfolio: [README_PORTFOLIO.md](README_PORTFOLIO.md)
 
+![Frontend Dashboard](docs/screenshots/frontend-dashboard.png)
+![Frontend Pedidos](docs/screenshots/frontend-pedidos.png)
+
 ## Leitura Rapida
 
 ### Screenshots
