@@ -2,15 +2,8 @@
 
 > Versao: `v1.0.0-beta.1`
 
-Mini ERP full stack inspirado em fluxos operacionais do ecossistema Protheus, com foco em comercial, financeiro, reservas, fiscal e rastreabilidade de fluxo.
-
-Este repositorio foi montado para comunicar valor tecnico rapido:
-
-- backend FastAPI com regras de negocio por fluxo
-- frontend React + Vite para operacao e consulta
-- SQL Server como persistencia transacional
-- testes automatizados e CI
-- demonstracao local via Swagger, screenshots e UI
+Mini ERP full stack inspirado em fluxos operacionais do ecossistema Protheus.
+Combina FastAPI, React, Vite e SQL Server para executar fluxos de pedido, faturamento, reservas, financeiro e relatorios.
 
 Versao comercial curta para portfolio: [README_PORTFOLIO.md](README_PORTFOLIO.md)
 
